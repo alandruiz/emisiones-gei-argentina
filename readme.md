@@ -20,10 +20,10 @@ El enfoque combina herramientas de ciencia de datos con criterios de gestión am
 ## 📈 Resultados principales
 
 - Agricultura, Ganadería, Silvicultura y Otros Usos de la Tierra y Energía concentran el 91,3 % del balance acumulado (47,6 % y 43,7 %).
-- El balance neto pasó de 273,7 MtCO₂e en 1990 a 400,8 en 2022 (46 % más), con un máximo de 450,0 en 2007. Desde 2009 oscila entre 347,0 y 428,2.
+- El balance neto pasó de 273,7 MtCO₂e en 1990 a 400,8 en 2022 (46 % más), con un máximo de 450,0 en 2007. Desde 2009 oscila entre 347,0 y 428,2, sin una reducción sostenida.
 - Energía fue el sector que más creció: pasó del 37 % al 50 % del balance anual, mientras Agricultura y Ganadería bajó del 55 % al 38 %.
 - El CO₂ es el gas de mayor peso (60,3 % del balance acumulado), seguido por el CH₄ (33,8 %), que viene sobre todo de la ganadería.
-- "Bovinos de Carne" es la categoría individual de mayor aporte, tanto en 2018-2022 como en todo el período.
+- "Bovinos de Carne" es la categoría individual de mayor aporte, tanto en 2018-2022 como en todo el período, por encima del transporte terrestre y la generación pública de electricidad.
 - Las remociones crecieron (de −39,7 a −56,5 MtCO₂e), pero en 2022 equivalen al 12 % de las emisiones brutas.
 
 ---
@@ -82,15 +82,6 @@ También está disponible en PDF: [`dashboard/reporte-dashboard-GEI.pdf`](dashbo
 
 #### Insights
 ![Insights](images/insights.png)
-
----
-
-## 🧠 Insights clave
-
-- El perfil de emisiones argentino se explica sobre todo por dos sectores: Agricultura/Ganadería y Energía.
-- A nivel de categoría, los principales focos son la ganadería bovina, el transporte terrestre y la generación eléctrica, y la conversión de tierras forestales.
-- El CO₂ predomina en el balance, seguido por el metano asociado a la ganadería.
-- Tras un máximo en 2007, el balance oscila sin una reducción sostenida, y las remociones compensan solo una parte menor de las emisiones.
 
 ---
 
